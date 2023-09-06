@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is our online food delivery app",
   "main": "server.js",
+  "engines": {
+    "node":"14.x"
+  },
   "dependencies": {
     "@tailwindcss/forms": "^0.2.1",
     "axios": "^0.21.1",
